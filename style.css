@@ -1,0 +1,19 @@
+
+body{
+    background-image: url("a1.jpg");
+    opacity: inherit;
+}
+.container{
+    color: rgb(255, 255, 255);
+    font-size: medium;
+
+    
+    
+}
+
+ 
+
+.d-flex{
+    display: flex;
+    align-content: flex-end;
+}

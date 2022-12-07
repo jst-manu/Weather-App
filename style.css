@@ -5,15 +5,18 @@ body{
 }
 .container{
     color: rgb(255, 255, 255);
-    font-size: medium;
-
-    
-    
+    font-size: medium;   
 }
 
- 
-
-.d-flex{
-    display: flex;
-    align-content: flex-end;
+.footer{
+    font-family: Georgia, serif;
+    color: aliceblue;
+    text-align: center;
+    align-content: center;
+    letter-spacing: 0.05cm;
+    word-spacing: 0.15cm;
+    font-size: larger;
+    font-weight: 50%;
+    
+    padding-top: 18%;
 }
